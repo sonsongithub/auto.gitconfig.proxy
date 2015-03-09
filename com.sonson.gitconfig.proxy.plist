@@ -7,7 +7,7 @@
  
   <key>ProgramArguments</key>
   <array>
-    <string>/Users/sonson/code/auto.gitconfig.proxy/update.sh</string>
+    <string>/path/to/auto.gitconfig.proxy/update.sh</string>
     <string>your proxy</string>
     <string>your port</string>
   </array>
