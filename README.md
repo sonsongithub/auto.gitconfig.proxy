@@ -19,7 +19,7 @@ Edit ````ProgramArguments```` element.
 
     cd /Users/[your name]/Library/LaunchAgents/
     ln -s /path/to/com.sonson.gitconfig.proxy.plist /Users/[your name]/Library/LaunchAgents/com.sonson.gitconfig.proxy.plist
-    launchctl load -w com.sonson.gitconfig.proxy.plist
+    launchctl load com.sonson.gitconfig.proxy.plist
     
 ### unload
 
